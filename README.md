@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE06ISSP-SP001-10-PARADJ000-telemetered-parad_j_cspp_instrument
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: PARAD<br>

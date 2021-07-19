@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE06ISSP-SP001-10-PARADJ000-telemetered-parad_j_cspp_instrument
 data_stream: CE06ISSP-SP001-10-PARADJ000-telemetered-parad_j_cspp_instrument
 end_date: '2021-05-27T20:05:45.606Z'
-last_updated: '2021-07-19T23:44:21.018070Z'
+last_updated: '2021-07-19T23:45:29.272381'
 start_date: '2015-05-05T08:00:00.655Z'
-status: pending
+status: success
